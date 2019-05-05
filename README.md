@@ -115,11 +115,11 @@ The proposed algorithms used for segmentation of handwritten Number recognition 
 
 7. References
 
-1. https://medium.com/@adi.bronshtein/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7
-2. https://towardsdatascience.com/scanned-digits-recognition-using-k-nearest-neighbor-k-nn-d1a1528f0dea
-3. http://ijcsit.com/docs/Volume%207/vol7issue1/ijcsit2016070101.pdf
-4. https://ieeexplore.ieee.org/document/5402783
-5. https://towardsdatascience.com/scanned-digits-recognition-using-k-nearest-neighbor-k-nn-d1a1528f0dea
+ 1. https://medium.com/@adi.bronshtein/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7
+ 2. https://towardsdatascience.com/scanned-digits-recognition-using-k-nearest-neighbor-k-nn-d1a1528f0dea
+ 3. http://ijcsit.com/docs/Volume%207/vol7issue1/ijcsit2016070101.pdf
+ 4. https://ieeexplore.ieee.org/document/5402783
+ 5. https://towardsdatascience.com/scanned-digits-recognition-using-k-nearest-neighbor-k-nn-d1a1528f0dea
 
 
 
